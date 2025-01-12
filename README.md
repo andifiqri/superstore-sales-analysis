@@ -34,12 +34,19 @@ This respository contains an Exploratory Data Analysis (EDA) of the Superstore d
 
 # Obejctive
 The primary objective of this analysis is to explore the dataset through EDA techniques, identify any business problems or opportunities, and provide actionable insight for decision-making. Key steps include:
+
 •	Analyzing sales trends by different dimensions (e.g., region, product category, customer segment).
+
 •	Identifying potentional areas of improvements (e.g., customer retention).
+
 •	Providing recommendations to address discovered issues.
 
 # Key Insight and Findings
+
 •	Sales Distribution: Sales trends over time, segmented by product category and region.
+
 •	Shipping Mode: Analysis of the most common shipping methods.
+
 •	Customer Segmentation: Insights into the different customer segments and their purchasing behaviour.
+
 •	Geographical Insights: Sales performance across different cities, states, and countries.  
