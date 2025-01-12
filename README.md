@@ -3,19 +3,33 @@ This respository contains an Exploratory Data Analysis (EDA) of the Superstore d
 
 # Datset Overview
 •	Order ID: Unique identifier for each order.
+
 •	Order Date: Date the order was placed.
+
 •	Ship Mode: The shipping method used.
+
 •	Customer Name: Name of the customer who placed the order.
+
 •	Segment: Market Segment the customer belongs to.
+
 •	Country: The country where the customer is located.
+
 •	City: The city where the customer is located.
+
 •	State: The state where the customer is located.
+
 •	Postal Code: Postal code of the customer. 
+
 •	Region: The region where the customer is located.
+
 •	Product ID: Unique identifier for the product sold.
+
 •	Category: The category of the product.
+
 •	Sub-Category: The sub-category of the product.
+
 •	Product Name: Name of the product.
+
 •	Sales: The sales revenue for the product.
 
 # Obejctive
